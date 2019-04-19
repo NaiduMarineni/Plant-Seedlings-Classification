@@ -8,3 +8,4 @@
 5. vgg19_data_augumentation.ipynb is the jupyter notebook contains the logs of training and testing the Model.
 6. gui_script.ipynb should be run to test the model through GUI.
 7. The trained neural network model is available at https://drive.google.com/file/d/1wRwZpCpeieRUx-7zwpmAKT6kdmIABmBe/view?usp=sharing .
+8. The text files have the loss and accuracy metrics of the model while training for each epoch
