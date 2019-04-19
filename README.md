@@ -9,3 +9,4 @@
 6. gui_script.ipynb should be run to test the model through GUI.
 7. The trained neural network model is available at https://drive.google.com/file/d/1wRwZpCpeieRUx-7zwpmAKT6kdmIABmBe/view?usp=sharing .
 8. The text files have the loss and accuracy metrics of the model while training for each epoch
+9. keras_aug_4_15_12.csv file contains the predictions made by the neural network for test data. This file is submitted to kaggle to find the test accuracy. The best test accuracy achieved is 94.71%
